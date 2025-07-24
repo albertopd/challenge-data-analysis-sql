@@ -18,6 +18,8 @@ cd challenge-data-analysis-sql
 pip install -r requirements.txt
 ```
 
+Download the kbo_database.db file from [Google Drive](https://drive.google.com/file/d/1QWmV2YQ9dBx3J6asLEb3e_lpjDIrUb-f) and place it in the data folder.
+
 ---
 
 ## 🧪 Usage
