@@ -40,6 +40,7 @@ Main dependencies include:
 - sqlite3
 - jupyter
 - pandas
+- matplotlib
 
 All required packages are listed in [`requirements.txt`](requirements.txt).
 
