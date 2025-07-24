@@ -1,10 +1,26 @@
 # Data Analysis with SQL on KBO database
 
-This repository contains a Jupyter Notebook for performing data analysis using SQL on a KBO database. The notebook connects to the database, executes queries, and analyzes the data.
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?logo=sqlite)](https://www.sqlite.org/)
 
 ---
 
-## 🚀 Features
+This repository contains a Jupyter Notebook for performing data analysis using SQL on a KBO (Kruispuntbank van Ondernemingen) database. The notebook connects to the database, executes queries, and analyzes the data.
+
+---
+
+## 🚀 Questions Answered
+
+- Which percentage of companies are under which juridical situation?
+- Which percentage of companies are under which juridical form?
+- What is the distribution of company statuses?
+- What is the average company age by sector?
+- What is the company creation trend over the years?
+- What is the distribution of companies per municipality?
+- What are the year-over-year growth trends by sector?
+- What are the seasonal patterns for company creation?
+- Which are the top 3 rising sectors per region in the last 5 years?
 
 ---
 
