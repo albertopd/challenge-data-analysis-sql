@@ -29,9 +29,9 @@ This repository contains Jupyter Notebooks for performing data analysis using SQ
 ### Business Creation Trends During the COVID-19 Pandemic
 
 - How Many Companies Were Created During the Pandemic?
-- Where Were More Companies Created During COVID-19?
-- What Were the Top 5 Municipalities for Company Creations During COVID-19?
-- What Were the Top 5 Sectors for Company Creations During COVID-19?
+- What Was the Distribution of Company Creations by Region?
+- Where Were Companies Created The Most?
+- Which Sectors Boomed During the Pandemic?
 
 ---
 
