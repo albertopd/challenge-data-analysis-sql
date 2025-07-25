@@ -3,14 +3,18 @@
 [![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey?logo=sqlite)](https://www.sqlite.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Plotting-11557C?logo=plotly&logoColor=white)](https://matplotlib.org/)
 
 ---
 
-This repository contains a Jupyter Notebook for performing data analysis using SQL on a KBO (Kruispuntbank van Ondernemingen) database. The notebook connects to the database, executes queries, and analyzes the data.
+This repository contains Jupyter Notebooks for performing data analysis using SQL on a KBO (Kruispuntbank van Ondernemingen) database. The notebooks connect to the database, execute queries, and analyze the data.
 
 ---
 
-## 🚀 Questions Answered
+## 🤔 Questions Answered
+
+### General
 
 - Which percentage of companies are under which juridical situation?
 - Which percentage of companies are under which juridical form?
@@ -21,6 +25,13 @@ This repository contains a Jupyter Notebook for performing data analysis using S
 - What are the year-over-year growth trends by sector?
 - What are the seasonal patterns for company creation?
 - Which are the top 3 rising sectors per region in the last 5 years?
+
+### Business Creation Trends During the COVID-19 Pandemic
+
+- How Many Companies Were Created During the Pandemic?
+- Where Were More Companies Created During COVID-19?
+- What Were the Top 5 Municipalities for Company Creations During COVID-19?
+- What Were the Top 5 Sectors for Company Creations During COVID-19?
 
 ---
 
@@ -40,10 +51,19 @@ Download the kbo_database.db file from [Google Drive](https://drive.google.com/f
 
 ## 🧪 Usage
 
-Open the Jupyter Notebook and run the cells to perform data analysis:
+### For General Data Analysis:
+
+Open the Jupyter Notebook `general-data-analysis` and run the cells to perform data analysis:
 
 ```bash
-jupyter notebook data-analysis-sql.ipynb
+jupyter notebook general-data-analysis.ipynb
+```
+
+### For COVID Data Analysis:
+
+Open the Jupyter Notebook `covid-data-analysis` and run the cells to perform data analysis:
+```bash
+jupyter notebook covid-data-analysis.ipynb
 ```
 
 ---
